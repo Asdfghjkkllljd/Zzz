@@ -5,7 +5,6 @@ from config import CHANNEL_ID
 
 api_id = "20668090"
 api_hash = "19dc666390d73b98aae44b77d4d8d25c"
-"
 
 app = Client('bot', api_id=api_id, api_hash=api_hash)
 
