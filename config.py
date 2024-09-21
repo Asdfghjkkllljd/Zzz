@@ -1,17 +1,16 @@
-TOKEN = "7405917761:AAEixpXB4VrRPrsS1Dxr70pdFvYEFw_BJkM" # Токен бота
-CHANNEL_ID = -1002129853604 # ID канала со ставками
-ADMINS = [6584286070] # ID админов
-BET_URL = "https://t.me/send?start=IVrAV6WWx3WV" # Ссылка на счет
-CRYPTOPAY_TOKEN = "244808:AAJ8sYMds1BHWPFFX5RhShpATGeM6gw4Dgp" # Тут CryptoPay токен
+TOKEN = "7519672085:AAHE5njvHUHxBHvz7F31g9LbLkdQwcYJBFY" # Токен бота
+CHANNEL_ID = -1002243436081 # ID канала со ставками
+ADMINS = [5846969551] # ID админов
+BET_URL = "t.me/send?start=IVpAqLJ8Pztg" # Ссылка на счет
+CRYPTOPAY_TOKEN = "257530:AAjBbpqNi7zCgG9RQwAlTDLOFRdKySJ2N6Q" # Тут CryptoPay токен
 WIN_IMAGE = "win.jpg" # Название файла с картинкой выигрыша
 LOSE_IMAGE = "lose.jpg" # Название файла с картинкой проигрыша
-LOGS_ID = -1002195516136 # ID канала с оплатами
-
-RULES_LINK = "https://t.me/igriwa/6" # Ссылка на канал с правилам
-NEWS_LINK = "https://t.me/newscryptogamecc" # Ссылка на новостной канал
-OWNER_LINK = "https://t.me/SC999AM" # Ссылка на владельца/поддержку
-PEREHOD_LINK = "@cryptogameccc" # Ссылка на переходник
-BETS_LINK = "https://t.me/cryptogameccc" # Ссылка на канал ставок
-CASINO_NAME = "Crypto Casino" # Название казино
-BOT_NAME = "cryptogameccc_bot"
-TEXT = "<b><a href='https://t.me/newscryptogamecc'>Новостной канал </a> | <a href='https://t.me/cryptogameccc_bot'>Реферальный бот</a> | <a href='https://t.me/SC999AM'>Техническая поддержка</a></b>"
+LOGS_ID = -1002226990800 # ID канала с оплатами
+RULES_LINK = "https://t.me/+k42zVBd8Iz41ZDEy" # Ссылка на канал с правилами
+NEWS_LINK = "https://t.me/+YXO5t3AYIRgxZTdi" # Ссылка на новостной канал
+OWNER_LINK = "https://t.me/CEKC_HA_OCTPOBAX" # Ссылка на владельца/поддержку
+PEREHOD_LINK = "@extremecasinoo" # Ссылка на переходник
+BETS_LINK = "https://t.me/extremecasinoo" # Ссылка на канал ставок
+CASINO_NAME = "EXTREME CASINO" # Название казино
+BOT_NAME = "Extremecasino_bot"
+TEXT = "<b><a href='https://t.me/+YXO5t3AYIRgxZTdi'>Новостной канал </a> | <a href='t.me/Extremecasinoobot'>Реферальный бот</a> | <a href='https://t.me/CEKC_HA_OCTPOBAX'>Техническая поддержка</a></b>"
